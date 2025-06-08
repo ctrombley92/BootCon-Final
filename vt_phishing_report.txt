@@ -1,0 +1,4 @@
+FROM: phishscamproject1@gmail.com
+SUBJECT: [URGENT] Account Verification Needed
+FLAGGED LINK: http://login-paypal-security-check.ru/verify
+
