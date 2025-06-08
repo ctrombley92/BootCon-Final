@@ -1,4 +1,4 @@
-# PhishSweep – Email Phishing Scanner with VirusTotal
+# PhishNet – Email Phishing Scanner with VirusTotal
 
 This project was built for my cybersecurity bootcamp final project, BootCon.
 
@@ -8,8 +8,8 @@ PhishSweep is a Python script that scans the most recent unread emails from a Gm
 
 ## Files Included
 
-- `phishsweep.py`: Python script that scans and reports phishing links
-- `PhishSweep_Slides.pdf`: My final presentation for BootCon
+- `phishnet.py`: Python script that scans and reports phishing links
+- `Christian Trombley BootCon Final Project.ppxt `: My final presentation for BootCon
 - `vt_phishing_report.txt`: Sample report output from the tool
 
 ## How It Works
