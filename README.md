@@ -4,7 +4,7 @@ This project was built for my cybersecurity bootcamp final project, BootCon.
 
 ## What It Does
 
-PhishSweep is a Python script that scans the most recent unread emails from a Gmail inbox and checks any found URLs against the VirusTotal API to detect phishing attempts.
+PhishNet is a Python script that scans the most recent unread emails from a Gmail inbox and checks any found URLs against the VirusTotal API to detect phishing attempts.
 
 ## Files Included
 
