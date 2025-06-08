@@ -4,12 +4,12 @@ import requests
 import time
 
 # Defender inbox (the one we are scanning)
-EMAIL = "scanmedefenseproject@gmail.com"
-PASSWORD = "eynpigxfcyhfiqux "
-IMAP_SERVER = "imap.gmail.com"
+EMAIL = ""
+PASSWORD = " "
+IMAP_SERVER = ""
 
 # VirusTotal API
-VT_API_KEY = "15a14815796df8ef2d779c711b20ff4a1e8f08911392c992373803ff5bb1693d"
+VT_API_KEY = ""
 
 def extract_links(text):
     return re.findall(r'https?://\S+', text)
